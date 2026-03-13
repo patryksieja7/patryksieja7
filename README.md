@@ -2,7 +2,7 @@
 
 <h2>🔧Projects:</h2>
 
-- [Windows Server Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Windows Server Active Directory Home Lab](https://github.com/patryksieja7/ADHomeLab/tree/main)
 - [Integration of a Real PLC with a Virtual Industrial Process using OPC UA](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
