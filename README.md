@@ -24,11 +24,15 @@
 - ECDL Certificate – AutoCAD
 - SEP Electrical Qualification – Group 1
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌐 Connect with me:</h2>
 
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+style="background-color:white; padding:4px; border-radius:4px;" />][email]
 
+[<img align="left" alt="linkedin | LinkedIn" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+style="background-color:white; padding:4px; border-radius:4px;" />][linkedin]
 
 
 [email]: mailto:patryksieja7@gmail.com
