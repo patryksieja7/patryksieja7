@@ -1,4 +1,15 @@
-<h1>Hi, I'm Patrick!
+<h1>Hi, I'm Patrick!</h1>
+
+💻 Applied Computer Science student and Automation and Robotics Engineer with a strong interest in **IT infrastructure** and **computer networks**.
+
+🔧 Interested in:
+- System administration
+- Computer networking
+- IT troubleshooting
+
+⚙️ Background in industrial automation:
+- PLC control systems
+- Industrial communication technologies
 
 <h2>🔧Projects:</h2>
 
@@ -8,23 +19,22 @@
 
 <h2>📜 Certifications</h2>
 
+- PLC Programming Course – Modernization of Vocational Education (Małopolska II)
+- English Language Certificate – Level C1 (Technical and General English)
+- ECDL Certificate – AutoCAD
+- SEP Electrical Qualification – Group 1
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+
+[email]: mailto:patryksieja7@gmail.com
+[linkedin]: https://www.linkedin.com/in/patryk-sieja/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
